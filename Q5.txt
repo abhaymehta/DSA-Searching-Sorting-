@@ -1,0 +1,7 @@
+%%js
+var string = ["Suraj", "Sanjeev", "Rajnish", "Yash", "Ravi"];
+console.log("Original String : " + string);
+console.log("======");
+string.sort();
+console.log("After sorting");
+console.log(string);
